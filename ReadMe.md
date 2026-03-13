@@ -67,6 +67,10 @@ migrations folder after running the above:
 after running the above successfully you will see:
 ![alt text](image-4.png)
 
+## **create super user**
+- `python manage.py createsuperuser`:
+![alt text](image-5.png)
+
 
 ## **CRUD Operations:**
 
